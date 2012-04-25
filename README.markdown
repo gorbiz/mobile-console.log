@@ -1,6 +1,6 @@
 # mobile-console.log
 
-Gives you on screen output of JavaScript's console.log() for Android, iPhone, iPad and iPod.
+Gives you on screen output of JavaScript's console.log() on Android, iPhone, iPad and iPod.
 
 ## Usage
 
