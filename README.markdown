@@ -1,6 +1,6 @@
 # mobile-console.log
 
-Gives you on screen output of console.log() for Android, iPhone, iPad and iPod.
+Gives you on screen output of JavaScript's console.log() for Android, iPhone, iPad and iPod.
 
 ## Usage
 
@@ -10,4 +10,3 @@ Include console.js in your HTML file. Actually you could simply add this inside 
     <script src="https://raw.github.com/gorbiz/mobile-console.log/master/console.js" type="text/javascript"></script>
 
 Of course omit the first line if you already have jQuery included.
-
